@@ -1,0 +1,24 @@
+/* Estilos para el carrusel */
+.carruselbody{
+    background-color: rgb(255, 71, 187);
+}
+.carousel-item img {
+    width: 900px;
+    height: 700px;
+    margin: auto;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Color de fondo semi-transparente para el texto */
+    padding: 10px;
+    color: #fff; /* Color del texto */
+  }
+  
+  .carousel-caption h3 {
+    font-size: 24px;
+  }
+  
+  .carousel-caption p {
+    font-size: 18px;
+  }
+  
